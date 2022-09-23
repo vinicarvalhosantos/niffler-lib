@@ -1,4 +1,4 @@
-package br.com.vinicius.santos.nifflerlib.models.dto;
+package br.com.vinicius.santos.nifflerlib.model.dto;
 
 import java.io.Serializable;
 import java.util.List;
